@@ -21,11 +21,14 @@ const Container = styled.div`
 max-width:1180px;
 height:100vh;
 display:flex;
-
+gap:50px;
 align-items:center;
 margin:0 auto;
 
 
+h1{
+font-size:5em;
+}
 
 .startP2{
 display:flex;
